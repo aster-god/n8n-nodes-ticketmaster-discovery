@@ -55,8 +55,8 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| V 2 | GET Find Suggest |
-| Default | GET Attraction Search, GET Get Attraction Details, GET Classification Search, GET Get Genre Details, GET Get Segment Details, GET Get Sub-Genre Details, GET Event Search, GET Get Event Images, GET Venue Search |
+| V 2 | Get find suggest |
+| Default | Get attraction search, Get attraction details, Get classification search, Get genre details, Get segment details, Get subgenre details, Get event search, Get event images, Get venue search |
 
 ---
 
